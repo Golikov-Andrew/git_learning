@@ -3,7 +3,7 @@ one else row in file
 third row in file
 one else string from main
 one else row from branch_two
-one else row from branch_two
+string added in SubGAV fork (replace old row)
 one else row from branch_two
 nfjfndkjdnkfjndkn
 
